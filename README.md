@@ -1,6 +1,6 @@
 ### Hi there I'm Thijmen Kirch 👋
 
-###I am a Full Stack Web Developer. 
+### I am a Full Stack Web Developer. 
 
 <!--
 **DefKirch/DefKirch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
