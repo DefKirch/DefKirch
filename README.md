@@ -30,3 +30,4 @@ Here are some ideas to get you started:
 ![image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 <!-- ![image]() -->
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=DefKirch)
