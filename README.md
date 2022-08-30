@@ -3,6 +3,8 @@
 ### I am a Full Stack Web Developer.
 Recently I finished a Web Development bootcamp at Codaisseur, here I learned the basics of web development.
 
+Right now I am exploring C++ !
+
 <!--
 **DefKirch/DefKirch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
