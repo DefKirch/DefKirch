@@ -1,9 +1,9 @@
 ### Hi there I'm Thijmen Kirch 👋
 
 ### I am a Full Stack Web Developer.
-Recently I finished a Web Development bootcamp at Codaisseur, here I learned the basics of web development.
+Full stack web developer with Migration expertise.
+Experience with Data extraction, transformation and loading.
 
-Right now I am exploring C++ !
 
 <!--
 **DefKirch/DefKirch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
